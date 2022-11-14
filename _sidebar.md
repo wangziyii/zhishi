@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [首页](/_sidebar.md)
+* [目录](/_sidebar.md)
 * [软件测试综合](/软件测试综合/_sidebar.md)
 * [计算机组成](/计算机组成/_sidebar.md)
 * [计算机网络](/计算机网络/_sidebar.md)
